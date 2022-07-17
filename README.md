@@ -1,0 +1,1 @@
+A simple approximation for calculating the cosmic microwave background anisotropy in adiabatic process by numerically solving the evolution equations of a two-fluid model until the epoch of recombination and then integrating over the sources to obtain the CMB anisotropy power spectrum. 
